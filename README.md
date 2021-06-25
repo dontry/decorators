@@ -1,2 +1,2 @@
-# weather-spa
+# Decorators
 Created with CodeSandbox
